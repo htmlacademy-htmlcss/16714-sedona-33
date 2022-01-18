@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Артём Банников](https://up.htmlacademy.ru/htmlcss/33/user/16714).
-* Наставник: `Неизвестно`.
+* Наставник: [Оксана Сергеева](https://htmlacademy.ru/profile/oksana).
 
 ---
 
